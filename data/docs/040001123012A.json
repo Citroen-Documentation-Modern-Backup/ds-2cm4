@@ -1,0 +1,28 @@
+{
+ "ref": "040001123012A",
+ "refDisplay": "0400 01 123012A",
+ "title": "ARBRE A CAMES COURROIE PIGNON",
+ "nature": "",
+ "applicability": " DEPUIS DAM 08764FL OU  DEPUIS DAM 08764FV OU  DEPUIS DAM 0876477 JUSQU’A DAM 1125377",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "2CM4",
+   "variantKey": "B0D=B0DZU&B0F=B0F6S",
+   "fctId": "FCT0007"
+  },
+  {
+   "ldp": "2CM4",
+   "variantKey": "B0D=B0DZV&B0F=B0F6S",
+   "fctId": "FCT0007"
+  },
+  {
+   "ldp": "2CM4",
+   "variantKey": "B0D=B0DGF&B0F=B0F6S",
+   "fctId": "FCT0007"
+  }
+ ]
+}

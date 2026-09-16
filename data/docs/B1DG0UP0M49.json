@@ -1,0 +1,55 @@
+{
+ "ref": "B1DG0UP0M49",
+ "refDisplay": "B1DG0UP0M49",
+ "title": "Dépose - repose:arbre à cames",
+ "nature": "Dépose-pose",
+ "applicability": "",
+ "typDoc": "2",
+ "css": [
+  "css/Document/gammes.css",
+  "css/Document/texte.css",
+  "css/Document/common.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "2CM4",
+   "variantKey": "B0D=B0DZU&B0F=B0F5A",
+   "fctId": "FCT0007"
+  },
+  {
+   "ldp": "2CM4",
+   "variantKey": "B0D=B0DZU&B0F=B0F5C",
+   "fctId": "FCT0007"
+  },
+  {
+   "ldp": "2CM4",
+   "variantKey": "B0D=B0DZV&B0F=B0F5A",
+   "fctId": "FCT0007"
+  },
+  {
+   "ldp": "2CM4",
+   "variantKey": "B0D=B0DZV&B0F=B0F5C",
+   "fctId": "FCT0007"
+  },
+  {
+   "ldp": "2CM4",
+   "variantKey": "B0D=B0DGF&B0F=B0F5A",
+   "fctId": "FCT0007"
+  },
+  {
+   "ldp": "2CM4",
+   "variantKey": "B0D=B0DGF&B0F=B0F5C",
+   "fctId": "FCT0007"
+  },
+  {
+   "ldp": "2CM4",
+   "variantKey": "B0D=B0DRT&B0F=B0F5A",
+   "fctId": "FCT0007"
+  },
+  {
+   "ldp": "2CM4",
+   "variantKey": "B0D=B0DRT&B0F=B0F5C",
+   "fctId": "FCT0007"
+  }
+ ]
+}

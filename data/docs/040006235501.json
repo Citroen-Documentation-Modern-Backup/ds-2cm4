@@ -1,0 +1,23 @@
+{
+ "ref": "040006235501",
+ "refDisplay": "0400 06 235501",
+ "title": "RADIATEUR",
+ "nature": "",
+ "applicability": " JUSQU’A OPR 08000",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "2CM4",
+   "variantKey": "B0D=B0DZU&B0F=B0F4V",
+   "fctId": "FCT0009"
+  },
+  {
+   "ldp": "2CM4",
+   "variantKey": "B0D=B0DGF&B0F=B0F4V",
+   "fctId": "FCT0009"
+  }
+ ]
+}

@@ -1,0 +1,33 @@
+{
+ "ref": "040001114305",
+ "refDisplay": "0400 01 114305",
+ "title": "CARTER DE DISTRIBUTION BOUCHONS",
+ "nature": "",
+ "applicability": "DEPOL CEE 2000 (MOTEUR)",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "2CM4",
+   "variantKey": "B0D=B0DZU&B0F=B0F6Q",
+   "fctId": "FCT0007"
+  },
+  {
+   "ldp": "2CM4",
+   "variantKey": "B0D=B0DZV&B0F=B0F6Q",
+   "fctId": "FCT0007"
+  },
+  {
+   "ldp": "2CM4",
+   "variantKey": "B0D=B0DGF&B0F=B0F6Q",
+   "fctId": "FCT0007"
+  },
+  {
+   "ldp": "2CM4",
+   "variantKey": "B0D=B0DRT&B0F=B0F6Q",
+   "fctId": "FCT0007"
+  }
+ ]
+}

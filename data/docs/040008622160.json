@@ -1,0 +1,33 @@
+{
+ "ref": "040008622160",
+ "refDisplay": "0400 08 622160",
+ "title": "CRIC DE LEVAGE",
+ "nature": "",
+ "applicability": "",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "2CM4",
+   "variantKey": "B0D=B0DZW&B0F=B0FE4",
+   "fctId": "FCT0023"
+  },
+  {
+   "ldp": "2CM4",
+   "variantKey": "B0D=B0DZW&B0F=B0FE4",
+   "fctId": "FCT0116"
+  },
+  {
+   "ldp": "2CM4",
+   "variantKey": "B0D=B0DGF&B0F=B0FE4",
+   "fctId": "FCT0023"
+  },
+  {
+   "ldp": "2CM4",
+   "variantKey": "B0D=B0DGF&B0F=B0FE4",
+   "fctId": "FCT0116"
+  }
+ ]
+}

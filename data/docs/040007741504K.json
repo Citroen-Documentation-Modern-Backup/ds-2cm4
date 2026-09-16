@@ -1,0 +1,28 @@
+{
+ "ref": "040007741504K",
+ "refDisplay": "0400 07 741504K",
+ "title": "BERCEAU AV",
+ "nature": "",
+ "applicability": "SUSPENSION RENFORCEE AV ET AR DEPUIS DAM 1056377",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "2CM4",
+   "variantKey": "B0D=B0DZU&B0F=B0F6S",
+   "fctId": "FCT0109"
+  },
+  {
+   "ldp": "2CM4",
+   "variantKey": "B0D=B0DZV&B0F=B0F6S",
+   "fctId": "FCT0109"
+  },
+  {
+   "ldp": "2CM4",
+   "variantKey": "B0D=B0DGF&B0F=B0F6S",
+   "fctId": "FCT0109"
+  }
+ ]
+}

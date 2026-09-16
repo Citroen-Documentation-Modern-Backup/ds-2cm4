@@ -1,0 +1,25 @@
+{
+ "ref": "B1HE0SP0",
+ "refDisplay": "B1HE0SP0",
+ "title": "Contrôle et réglage : carburateur SOLEX 32 - 34 Z2",
+ "nature": "Contrôles réglages",
+ "applicability": "DEPOL 15-04 (MOTEUR) ET ESSENCE RON 95 DEPUIS OPR 7301",
+ "typDoc": "2",
+ "css": [
+  "css/Document/gammes.css",
+  "css/Document/texte.css",
+  "css/Document/common.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "2CM4",
+   "variantKey": "B0D=B0DZU&B0F=B0F4V",
+   "fctId": "FCT0010"
+  },
+  {
+   "ldp": "2CM4",
+   "variantKey": "B0D=B0DGF&B0F=B0F4V",
+   "fctId": "FCT0010"
+  }
+ ]
+}

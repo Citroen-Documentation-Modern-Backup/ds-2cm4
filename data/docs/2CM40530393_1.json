@@ -1,0 +1,29 @@
+{
+ "ref": "2CM40530393_1",
+ "refDisplay": "2CM4 0 53 0393",
+ "title": "TUBE DE CANISTER A RESERVOIR DANS COFFRE",
+ "nature": "",
+ "applicability": "(1051) BERLINGO FOURGON COURT ’800’ INJECTION TU3JP BICARBURATION GNV 2 PORTES AR BATTANTES VITREES 2 VITRES ENTREBAIL CHAQUE COTE OU (1050) BERLINGO FOURGON COURT ’800’ INJECTION TU3JP BICARBURATION GPL 2 PORTES AR BATTANTES VITREES 2 VITRES ENTREBAIL CHAQUE COTE OU (104X) BERLINGO FOURGON COURT ’800’ INJECTION TU3JP BICARBURATION GNV 2 PORTES AR BATTANTES VITREES 1 VITRE DE CHAQUE COTE",
+ "typDoc": "6",
+ "css": [
+  "css/Document/baremes.css",
+  "css/Document/common.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "2CM4",
+   "variantKey": "B0D=B0DZV&B0F=B0F6Q",
+   "fctId": "FCT0012"
+  },
+  {
+   "ldp": "2CM4",
+   "variantKey": "B0D=B0DGF&B0F=B0F6Q",
+   "fctId": "FCT0012"
+  },
+  {
+   "ldp": "2CM4",
+   "variantKey": "B0D=B0DGF&B0F=B0F2Z",
+   "fctId": "FCT0012"
+  }
+ ]
+}

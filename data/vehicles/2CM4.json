@@ -1,0 +1,419 @@
+{
+ "ldp": "2CM4",
+ "label": "BERLINGO",
+ "selectors": [
+  {
+   "id": "B0D",
+   "order": 0,
+   "title": "Silhouette",
+   "selection": "",
+   "values": [
+    {
+     "val": "B0DZT",
+     "lib": "FOURGON COURT &#8217;475&#8217;"
+    },
+    {
+     "val": "B0DZW",
+     "lib": "FOURGON COURT &#8217;500&#8217;"
+    },
+    {
+     "val": "B0DZU",
+     "lib": "FOURGON COURT &#8217;600&#8217;"
+    },
+    {
+     "val": "B0DZV",
+     "lib": "FOURGON COURT &#8217;800&#8217;"
+    },
+    {
+     "val": "B0DGF",
+     "lib": "FOURGONNETTE FAMILIALE"
+    },
+    {
+     "val": "B0DRT",
+     "lib": "PLANCHER CABINE COURT &#8217;765&#8217;"
+    }
+   ],
+   "optional": false
+  },
+  {
+   "id": "B0F",
+   "order": 1,
+   "title": "Moteur",
+   "selection": "",
+   "values": [
+    {
+     "val": "B0F6P",
+     "lib": "1.1 i (TU1JP)"
+    },
+    {
+     "val": "B0F6R",
+     "lib": "1.1 i (TU1M+)"
+    },
+    {
+     "val": "B0F4V",
+     "lib": "1.4"
+    },
+    {
+     "val": "B0F6Q",
+     "lib": "1.4 i 75 (TU3JP)"
+    },
+    {
+     "val": "B0F6S",
+     "lib": "1.6 i 16v 110 (TU5JP4)"
+    },
+    {
+     "val": "B0F5A",
+     "lib": "1.8 D"
+    },
+    {
+     "val": "B0F2Z",
+     "lib": "1.8 i 8v 92"
+    },
+    {
+     "val": "B0F2V",
+     "lib": "1.9 D (DW8)"
+    },
+    {
+     "val": "B0F5C",
+     "lib": "1.9 D (XUD9)"
+    },
+    {
+     "val": "B0F7H",
+     "lib": "1.9 D 71 (DW8B)"
+    },
+    {
+     "val": "B0F2X",
+     "lib": "2.0 HDi 90"
+    },
+    {
+     "val": "B0FE4",
+     "lib": "SA18"
+    }
+   ],
+   "optional": false
+  }
+ ],
+ "optional": [],
+ "variants": [
+  {
+   "key": "B0D=B0DZT&B0F=B0F6P",
+   "selections": {
+    "B0D": "B0DZT",
+    "B0F": "B0F6P"
+   },
+   "label": "FOURGON COURT &#8217;475&#8217; · 1.1 i (TU1JP)"
+  },
+  {
+   "key": "B0D=B0DZT&B0F=B0F6R",
+   "selections": {
+    "B0D": "B0DZT",
+    "B0F": "B0F6R"
+   },
+   "label": "FOURGON COURT &#8217;475&#8217; · 1.1 i (TU1M+)"
+  },
+  {
+   "key": "B0D=B0DZW&B0F=B0FE4",
+   "selections": {
+    "B0D": "B0DZW",
+    "B0F": "B0FE4"
+   },
+   "label": "FOURGON COURT &#8217;500&#8217; · SA18"
+  },
+  {
+   "key": "B0D=B0DZU&B0F=B0F6P",
+   "selections": {
+    "B0D": "B0DZU",
+    "B0F": "B0F6P"
+   },
+   "label": "FOURGON COURT &#8217;600&#8217; · 1.1 i (TU1JP)"
+  },
+  {
+   "key": "B0D=B0DZU&B0F=B0F6R",
+   "selections": {
+    "B0D": "B0DZU",
+    "B0F": "B0F6R"
+   },
+   "label": "FOURGON COURT &#8217;600&#8217; · 1.1 i (TU1M+)"
+  },
+  {
+   "key": "B0D=B0DZU&B0F=B0F4V",
+   "selections": {
+    "B0D": "B0DZU",
+    "B0F": "B0F4V"
+   },
+   "label": "FOURGON COURT &#8217;600&#8217; · 1.4"
+  },
+  {
+   "key": "B0D=B0DZU&B0F=B0F6Q",
+   "selections": {
+    "B0D": "B0DZU",
+    "B0F": "B0F6Q"
+   },
+   "label": "FOURGON COURT &#8217;600&#8217; · 1.4 i 75 (TU3JP)"
+  },
+  {
+   "key": "B0D=B0DZU&B0F=B0F6S",
+   "selections": {
+    "B0D": "B0DZU",
+    "B0F": "B0F6S"
+   },
+   "label": "FOURGON COURT &#8217;600&#8217; · 1.6 i 16v 110 (TU5JP4)"
+  },
+  {
+   "key": "B0D=B0DZU&B0F=B0F5A",
+   "selections": {
+    "B0D": "B0DZU",
+    "B0F": "B0F5A"
+   },
+   "label": "FOURGON COURT &#8217;600&#8217; · 1.8 D"
+  },
+  {
+   "key": "B0D=B0DZU&B0F=B0F2Z",
+   "selections": {
+    "B0D": "B0DZU",
+    "B0F": "B0F2Z"
+   },
+   "label": "FOURGON COURT &#8217;600&#8217; · 1.8 i 8v 92"
+  },
+  {
+   "key": "B0D=B0DZU&B0F=B0F2V",
+   "selections": {
+    "B0D": "B0DZU",
+    "B0F": "B0F2V"
+   },
+   "label": "FOURGON COURT &#8217;600&#8217; · 1.9 D (DW8)"
+  },
+  {
+   "key": "B0D=B0DZU&B0F=B0F5C",
+   "selections": {
+    "B0D": "B0DZU",
+    "B0F": "B0F5C"
+   },
+   "label": "FOURGON COURT &#8217;600&#8217; · 1.9 D (XUD9)"
+  },
+  {
+   "key": "B0D=B0DZU&B0F=B0F7H",
+   "selections": {
+    "B0D": "B0DZU",
+    "B0F": "B0F7H"
+   },
+   "label": "FOURGON COURT &#8217;600&#8217; · 1.9 D 71 (DW8B)"
+  },
+  {
+   "key": "B0D=B0DZU&B0F=B0F2X",
+   "selections": {
+    "B0D": "B0DZU",
+    "B0F": "B0F2X"
+   },
+   "label": "FOURGON COURT &#8217;600&#8217; · 2.0 HDi 90"
+  },
+  {
+   "key": "B0D=B0DZV&B0F=B0F6Q",
+   "selections": {
+    "B0D": "B0DZV",
+    "B0F": "B0F6Q"
+   },
+   "label": "FOURGON COURT &#8217;800&#8217; · 1.4 i 75 (TU3JP)"
+  },
+  {
+   "key": "B0D=B0DZV&B0F=B0F6S",
+   "selections": {
+    "B0D": "B0DZV",
+    "B0F": "B0F6S"
+   },
+   "label": "FOURGON COURT &#8217;800&#8217; · 1.6 i 16v 110 (TU5JP4)"
+  },
+  {
+   "key": "B0D=B0DZV&B0F=B0F5A",
+   "selections": {
+    "B0D": "B0DZV",
+    "B0F": "B0F5A"
+   },
+   "label": "FOURGON COURT &#8217;800&#8217; · 1.8 D"
+  },
+  {
+   "key": "B0D=B0DZV&B0F=B0F2Z",
+   "selections": {
+    "B0D": "B0DZV",
+    "B0F": "B0F2Z"
+   },
+   "label": "FOURGON COURT &#8217;800&#8217; · 1.8 i 8v 92"
+  },
+  {
+   "key": "B0D=B0DZV&B0F=B0F2V",
+   "selections": {
+    "B0D": "B0DZV",
+    "B0F": "B0F2V"
+   },
+   "label": "FOURGON COURT &#8217;800&#8217; · 1.9 D (DW8)"
+  },
+  {
+   "key": "B0D=B0DZV&B0F=B0F5C",
+   "selections": {
+    "B0D": "B0DZV",
+    "B0F": "B0F5C"
+   },
+   "label": "FOURGON COURT &#8217;800&#8217; · 1.9 D (XUD9)"
+  },
+  {
+   "key": "B0D=B0DZV&B0F=B0F7H",
+   "selections": {
+    "B0D": "B0DZV",
+    "B0F": "B0F7H"
+   },
+   "label": "FOURGON COURT &#8217;800&#8217; · 1.9 D 71 (DW8B)"
+  },
+  {
+   "key": "B0D=B0DZV&B0F=B0F2X",
+   "selections": {
+    "B0D": "B0DZV",
+    "B0F": "B0F2X"
+   },
+   "label": "FOURGON COURT &#8217;800&#8217; · 2.0 HDi 90"
+  },
+  {
+   "key": "B0D=B0DGF&B0F=B0F6P",
+   "selections": {
+    "B0D": "B0DGF",
+    "B0F": "B0F6P"
+   },
+   "label": "FOURGONNETTE FAMILIALE · 1.1 i (TU1JP)"
+  },
+  {
+   "key": "B0D=B0DGF&B0F=B0F6R",
+   "selections": {
+    "B0D": "B0DGF",
+    "B0F": "B0F6R"
+   },
+   "label": "FOURGONNETTE FAMILIALE · 1.1 i (TU1M+)"
+  },
+  {
+   "key": "B0D=B0DGF&B0F=B0F4V",
+   "selections": {
+    "B0D": "B0DGF",
+    "B0F": "B0F4V"
+   },
+   "label": "FOURGONNETTE FAMILIALE · 1.4"
+  },
+  {
+   "key": "B0D=B0DGF&B0F=B0F6Q",
+   "selections": {
+    "B0D": "B0DGF",
+    "B0F": "B0F6Q"
+   },
+   "label": "FOURGONNETTE FAMILIALE · 1.4 i 75 (TU3JP)"
+  },
+  {
+   "key": "B0D=B0DGF&B0F=B0F6S",
+   "selections": {
+    "B0D": "B0DGF",
+    "B0F": "B0F6S"
+   },
+   "label": "FOURGONNETTE FAMILIALE · 1.6 i 16v 110 (TU5JP4)"
+  },
+  {
+   "key": "B0D=B0DGF&B0F=B0F5A",
+   "selections": {
+    "B0D": "B0DGF",
+    "B0F": "B0F5A"
+   },
+   "label": "FOURGONNETTE FAMILIALE · 1.8 D"
+  },
+  {
+   "key": "B0D=B0DGF&B0F=B0F2Z",
+   "selections": {
+    "B0D": "B0DGF",
+    "B0F": "B0F2Z"
+   },
+   "label": "FOURGONNETTE FAMILIALE · 1.8 i 8v 92"
+  },
+  {
+   "key": "B0D=B0DGF&B0F=B0F2V",
+   "selections": {
+    "B0D": "B0DGF",
+    "B0F": "B0F2V"
+   },
+   "label": "FOURGONNETTE FAMILIALE · 1.9 D (DW8)"
+  },
+  {
+   "key": "B0D=B0DGF&B0F=B0F5C",
+   "selections": {
+    "B0D": "B0DGF",
+    "B0F": "B0F5C"
+   },
+   "label": "FOURGONNETTE FAMILIALE · 1.9 D (XUD9)"
+  },
+  {
+   "key": "B0D=B0DGF&B0F=B0F7H",
+   "selections": {
+    "B0D": "B0DGF",
+    "B0F": "B0F7H"
+   },
+   "label": "FOURGONNETTE FAMILIALE · 1.9 D 71 (DW8B)"
+  },
+  {
+   "key": "B0D=B0DGF&B0F=B0F2X",
+   "selections": {
+    "B0D": "B0DGF",
+    "B0F": "B0F2X"
+   },
+   "label": "FOURGONNETTE FAMILIALE · 2.0 HDi 90"
+  },
+  {
+   "key": "B0D=B0DGF&B0F=B0FE4",
+   "selections": {
+    "B0D": "B0DGF",
+    "B0F": "B0FE4"
+   },
+   "label": "FOURGONNETTE FAMILIALE · SA18"
+  },
+  {
+   "key": "B0D=B0DRT&B0F=B0F6Q",
+   "selections": {
+    "B0D": "B0DRT",
+    "B0F": "B0F6Q"
+   },
+   "label": "PLANCHER CABINE COURT &#8217;765&#8217; · 1.4 i 75 (TU3JP)"
+  },
+  {
+   "key": "B0D=B0DRT&B0F=B0F5A",
+   "selections": {
+    "B0D": "B0DRT",
+    "B0F": "B0F5A"
+   },
+   "label": "PLANCHER CABINE COURT &#8217;765&#8217; · 1.8 D"
+  },
+  {
+   "key": "B0D=B0DRT&B0F=B0F2V",
+   "selections": {
+    "B0D": "B0DRT",
+    "B0F": "B0F2V"
+   },
+   "label": "PLANCHER CABINE COURT &#8217;765&#8217; · 1.9 D (DW8)"
+  },
+  {
+   "key": "B0D=B0DRT&B0F=B0F5C",
+   "selections": {
+    "B0D": "B0DRT",
+    "B0F": "B0F5C"
+   },
+   "label": "PLANCHER CABINE COURT &#8217;765&#8217; · 1.9 D (XUD9)"
+  },
+  {
+   "key": "B0D=B0DRT&B0F=B0F7H",
+   "selections": {
+    "B0D": "B0DRT",
+    "B0F": "B0F7H"
+   },
+   "label": "PLANCHER CABINE COURT &#8217;765&#8217; · 1.9 D 71 (DW8B)"
+  },
+  {
+   "key": "B0D=B0DRT&B0F=B0F2X",
+   "selections": {
+    "B0D": "B0DRT",
+    "B0F": "B0F2X"
+   },
+   "label": "PLANCHER CABINE COURT &#8217;765&#8217; · 2.0 HDi 90"
+  }
+ ]
+}

@@ -1,0 +1,25 @@
+{
+ "ref": "B1BB2XP0",
+ "refDisplay": "B1BB2XP0",
+ "title": "Caractéristiques : Moteur ",
+ "nature": "Caractéristiques - identifications",
+ "applicability": "DEPOL 15-04 (MOTEUR) DEPUIS OPR 7301",
+ "typDoc": "2",
+ "css": [
+  "css/Document/gammes.css",
+  "css/Document/texte.css",
+  "css/Document/common.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "2CM4",
+   "variantKey": "B0D=B0DZU&B0F=B0F4V",
+   "fctId": "FCT0049"
+  },
+  {
+   "ldp": "2CM4",
+   "variantKey": "B0D=B0DGF&B0F=B0F4V",
+   "fctId": "FCT0049"
+  }
+ ]
+}

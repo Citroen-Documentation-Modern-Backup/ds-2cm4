@@ -1,0 +1,33 @@
+{
+ "ref": "040002212120A",
+ "refDisplay": "0400 02 212120A",
+ "title": "BOUGIE - BOITIER PRECHAUFFAGE",
+ "nature": "",
+ "applicability": "",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "2CM4",
+   "variantKey": "B0D=B0DZU&B0F=B0F2X",
+   "fctId": "FCT0304"
+  },
+  {
+   "ldp": "2CM4",
+   "variantKey": "B0D=B0DZV&B0F=B0F2X",
+   "fctId": "FCT0304"
+  },
+  {
+   "ldp": "2CM4",
+   "variantKey": "B0D=B0DGF&B0F=B0F2X",
+   "fctId": "FCT0304"
+  },
+  {
+   "ldp": "2CM4",
+   "variantKey": "B0D=B0DRT&B0F=B0F2X",
+   "fctId": "FCT0304"
+  }
+ ]
+}

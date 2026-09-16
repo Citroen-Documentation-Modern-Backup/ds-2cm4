@@ -1,0 +1,23 @@
+{
+ "ref": "040002211201",
+ "refDisplay": "0400 02 211201",
+ "title": "ALLUMEUR",
+ "nature": "",
+ "applicability": "",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "2CM4",
+   "variantKey": "B0D=B0DZU&B0F=B0F4V",
+   "fctId": "FCT0013"
+  },
+  {
+   "ldp": "2CM4",
+   "variantKey": "B0D=B0DGF&B0F=B0F4V",
+   "fctId": "FCT0013"
+  }
+ ]
+}

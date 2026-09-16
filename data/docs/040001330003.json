@@ -1,0 +1,28 @@
+{
+ "ref": "040001330003",
+ "refDisplay": "0400 01 330003",
+ "title": "BOITE DE VITESSES MECANIQUE",
+ "nature": "",
+ "applicability": "BVM BE3R ET CP 19 X 72 DEPUIS BOITE 0000001 OU BVM BE3 ET CP 19 X 72 JUSQU’A BOITE 9999999",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "2CM4",
+   "variantKey": "B0D=B0DZU&B0F=B0F2Z",
+   "fctId": "FCT0017"
+  },
+  {
+   "ldp": "2CM4",
+   "variantKey": "B0D=B0DZV&B0F=B0F2Z",
+   "fctId": "FCT0017"
+  },
+  {
+   "ldp": "2CM4",
+   "variantKey": "B0D=B0DGF&B0F=B0F2Z",
+   "fctId": "FCT0017"
+  }
+ ]
+}

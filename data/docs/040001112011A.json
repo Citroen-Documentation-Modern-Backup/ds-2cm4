@@ -1,0 +1,33 @@
+{
+ "ref": "040001112011A",
+ "refDisplay": "0400 01 112011A",
+ "title": "CULASSE - COUVRE CULASSE",
+ "nature": "",
+ "applicability": "DEPOLLUTION TECHNIQUE VEHICULE L4 DEPUIS OPR 08701 OU DEPOLLUTION TECHNIQUE VEHICULE K DEPUIS OPR 08701 OU DEPOLLUTION TECHNIQUE VEHICULE W4 DEPUIS OPR 08701",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "2CM4",
+   "variantKey": "B0D=B0DZU&B0F=B0F6Q",
+   "fctId": "FCT0006"
+  },
+  {
+   "ldp": "2CM4",
+   "variantKey": "B0D=B0DZV&B0F=B0F6Q",
+   "fctId": "FCT0006"
+  },
+  {
+   "ldp": "2CM4",
+   "variantKey": "B0D=B0DGF&B0F=B0F6Q",
+   "fctId": "FCT0006"
+  },
+  {
+   "ldp": "2CM4",
+   "variantKey": "B0D=B0DRT&B0F=B0F6Q",
+   "fctId": "FCT0006"
+  }
+ ]
+}

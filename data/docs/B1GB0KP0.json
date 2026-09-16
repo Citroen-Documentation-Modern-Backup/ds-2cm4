@@ -1,0 +1,55 @@
+{
+ "ref": "B1GB0KP0",
+ "refDisplay": "B1GB0KP0",
+ "title": "Caractéristiques : circuit de refroidissement",
+ "nature": "Caractéristiques - identifications",
+ "applicability": " DEPUIS OPR 7085",
+ "typDoc": "2",
+ "css": [
+  "css/Document/gammes.css",
+  "css/Document/texte.css",
+  "css/Document/common.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "2CM4",
+   "variantKey": "B0D=B0DZU&B0F=B0F5A",
+   "fctId": "FCT0009"
+  },
+  {
+   "ldp": "2CM4",
+   "variantKey": "B0D=B0DZU&B0F=B0F5C",
+   "fctId": "FCT0009"
+  },
+  {
+   "ldp": "2CM4",
+   "variantKey": "B0D=B0DZV&B0F=B0F5A",
+   "fctId": "FCT0009"
+  },
+  {
+   "ldp": "2CM4",
+   "variantKey": "B0D=B0DZV&B0F=B0F5C",
+   "fctId": "FCT0009"
+  },
+  {
+   "ldp": "2CM4",
+   "variantKey": "B0D=B0DGF&B0F=B0F5A",
+   "fctId": "FCT0009"
+  },
+  {
+   "ldp": "2CM4",
+   "variantKey": "B0D=B0DGF&B0F=B0F5C",
+   "fctId": "FCT0009"
+  },
+  {
+   "ldp": "2CM4",
+   "variantKey": "B0D=B0DRT&B0F=B0F5A",
+   "fctId": "FCT0009"
+  },
+  {
+   "ldp": "2CM4",
+   "variantKey": "B0D=B0DRT&B0F=B0F5C",
+   "fctId": "FCT0009"
+  }
+ ]
+}

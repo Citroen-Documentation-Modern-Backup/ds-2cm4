@@ -1,0 +1,33 @@
+{
+ "ref": "040004455510",
+ "refDisplay": "0400 04 455510",
+ "title": "FREIN A MAIN DETAILS",
+ "nature": "",
+ "applicability": "",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "2CM4",
+   "variantKey": "B0D=B0DZW&B0F=B0FE4",
+   "fctId": "FCT0046"
+  },
+  {
+   "ldp": "2CM4",
+   "variantKey": "B0D=B0DZW&B0F=B0FE4",
+   "fctId": "FCT0351"
+  },
+  {
+   "ldp": "2CM4",
+   "variantKey": "B0D=B0DGF&B0F=B0FE4",
+   "fctId": "FCT0046"
+  },
+  {
+   "ldp": "2CM4",
+   "variantKey": "B0D=B0DGF&B0F=B0FE4",
+   "fctId": "FCT0351"
+  }
+ ]
+}

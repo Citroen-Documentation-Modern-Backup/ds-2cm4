@@ -1,0 +1,18 @@
+{
+ "ref": "040003434010A",
+ "refDisplay": "0400 03 434010A",
+ "title": "AMORTISSEURS SUSPENSION AVANT",
+ "nature": "",
+ "applicability": "SUSPENSION NORMALE",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "2CM4",
+   "variantKey": "B0D=B0DGF&B0F=B0F2Z",
+   "fctId": "FCT0028"
+  }
+ ]
+}

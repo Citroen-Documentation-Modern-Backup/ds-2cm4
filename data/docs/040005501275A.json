@@ -1,0 +1,33 @@
+{
+ "ref": "040005501275A",
+ "refDisplay": "0400 05 501275A",
+ "title": "FAISCEAU MOTEUR",
+ "nature": "",
+ "applicability": "",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "2CM4",
+   "variantKey": "B0D=B0DZU&B0F=B0F2X",
+   "fctId": "FCT0308"
+  },
+  {
+   "ldp": "2CM4",
+   "variantKey": "B0D=B0DZV&B0F=B0F2X",
+   "fctId": "FCT0308"
+  },
+  {
+   "ldp": "2CM4",
+   "variantKey": "B0D=B0DGF&B0F=B0F2X",
+   "fctId": "FCT0308"
+  },
+  {
+   "ldp": "2CM4",
+   "variantKey": "B0D=B0DRT&B0F=B0F2X",
+   "fctId": "FCT0308"
+  }
+ ]
+}

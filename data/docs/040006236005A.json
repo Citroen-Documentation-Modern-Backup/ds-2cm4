@@ -1,0 +1,33 @@
+{
+ "ref": "040006236005A",
+ "refDisplay": "0400 06 236005A",
+ "title": "DURIT RACCORD DE REFROIDISSEMENT",
+ "nature": "",
+ "applicability": "DEPOL CEE 95 (MOTEUR) DEPUIS OPR 08026 OU DEPOL 15-04 (MOTEUR) DEPUIS OPR 08026 OU DEPOL CEE W2 (MOTEUR) DEPUIS OPR 08026",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "2CM4",
+   "variantKey": "B0D=B0DZU&B0F=B0F6Q",
+   "fctId": "FCT0009"
+  },
+  {
+   "ldp": "2CM4",
+   "variantKey": "B0D=B0DZV&B0F=B0F6Q",
+   "fctId": "FCT0009"
+  },
+  {
+   "ldp": "2CM4",
+   "variantKey": "B0D=B0DGF&B0F=B0F6Q",
+   "fctId": "FCT0009"
+  },
+  {
+   "ldp": "2CM4",
+   "variantKey": "B0D=B0DRT&B0F=B0F6Q",
+   "fctId": "FCT0009"
+  }
+ ]
+}

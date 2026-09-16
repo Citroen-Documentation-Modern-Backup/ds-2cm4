@@ -1,0 +1,33 @@
+{
+ "ref": "040005501252",
+ "refDisplay": "0400 05 501252",
+ "title": "FAISCEAU MOTEUR",
+ "nature": "",
+ "applicability": " DEPUIS OPR 07847",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "2CM4",
+   "variantKey": "B0D=B0DZU&B0F=B0F5A",
+   "fctId": "FCT0308"
+  },
+  {
+   "ldp": "2CM4",
+   "variantKey": "B0D=B0DZV&B0F=B0F5A",
+   "fctId": "FCT0308"
+  },
+  {
+   "ldp": "2CM4",
+   "variantKey": "B0D=B0DGF&B0F=B0F5A",
+   "fctId": "FCT0308"
+  },
+  {
+   "ldp": "2CM4",
+   "variantKey": "B0D=B0DRT&B0F=B0F5A",
+   "fctId": "FCT0308"
+  }
+ ]
+}

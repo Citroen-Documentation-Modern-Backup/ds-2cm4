@@ -1,0 +1,28 @@
+{
+ "ref": "040001123003A",
+ "refDisplay": "0400 01 123003A",
+ "title": "ARBRE A CAMES COURROIE PIGNON",
+ "nature": "",
+ "applicability": " JUSQU’A MOTEUR 3762433",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "2CM4",
+   "variantKey": "B0D=B0DZT&B0F=B0F6P",
+   "fctId": "FCT0007"
+  },
+  {
+   "ldp": "2CM4",
+   "variantKey": "B0D=B0DZU&B0F=B0F6P",
+   "fctId": "FCT0007"
+  },
+  {
+   "ldp": "2CM4",
+   "variantKey": "B0D=B0DGF&B0F=B0F6P",
+   "fctId": "FCT0007"
+  }
+ ]
+}

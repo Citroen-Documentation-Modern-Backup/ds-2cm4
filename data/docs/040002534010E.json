@@ -1,0 +1,23 @@
+{
+ "ref": "040002534010E",
+ "refDisplay": "0400 02 534010E",
+ "title": "TRAVERSE SUPPORT BOITIER",
+ "nature": "",
+ "applicability": " DEPUIS OPR 08239",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "2CM4",
+   "variantKey": "B0D=B0DZW&B0F=B0FE4",
+   "fctId": "FCT0010"
+  },
+  {
+   "ldp": "2CM4",
+   "variantKey": "B0D=B0DGF&B0F=B0FE4",
+   "fctId": "FCT0010"
+  }
+ ]
+}

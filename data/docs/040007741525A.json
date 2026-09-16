@@ -1,0 +1,33 @@
+{
+ "ref": "040007741525A",
+ "refDisplay": "0400 07 741525A",
+ "title": "BERCEAU AV",
+ "nature": "",
+ "applicability": "SUSPENSION RENFORCEE AV ET AR",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "2CM4",
+   "variantKey": "B0D=B0DZU&B0F=B0F2V",
+   "fctId": "FCT0109"
+  },
+  {
+   "ldp": "2CM4",
+   "variantKey": "B0D=B0DZV&B0F=B0F2V",
+   "fctId": "FCT0109"
+  },
+  {
+   "ldp": "2CM4",
+   "variantKey": "B0D=B0DGF&B0F=B0F2V",
+   "fctId": "FCT0109"
+  },
+  {
+   "ldp": "2CM4",
+   "variantKey": "B0D=B0DRT&B0F=B0F2V",
+   "fctId": "FCT0109"
+  }
+ ]
+}

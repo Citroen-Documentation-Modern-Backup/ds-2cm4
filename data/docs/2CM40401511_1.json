@@ -1,0 +1,29 @@
+{
+ "ref": "2CM40401511_1",
+ "refDisplay": "2CM4 0 40 1511",
+ "title": "FILTRE A CARBURANT SUR CANALISATION",
+ "nature": "",
+ "applicability": "(102T) BERLINGO FOURGON COURT ’600’ INJECTION XU7JB 2 PORTES AR BATTANTES VITREES SANS VITRE LATERALE OU (102R) BERLINGO FOURGON COURT ’600’ INJECTION XU7JB VOLET 2 VITRES ENTREBAIL CHAQUE COTE OU (102P) BERLINGO FOURGON COURT ’600’ INJECTION XU7JB VOLET 1 VITRE DE CHAQUE COTE OU (102N) BERLINGO FOURGON COURT ’600’ INJECTION XU7JB VOLET SANS VITRE LATERALE",
+ "typDoc": "6",
+ "css": [
+  "css/Document/baremes.css",
+  "css/Document/common.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "2CM4",
+   "variantKey": "B0D=B0DZU&B0F=B0F2Z",
+   "fctId": "FCT0010"
+  },
+  {
+   "ldp": "2CM4",
+   "variantKey": "B0D=B0DZV&B0F=B0F2Z",
+   "fctId": "FCT0010"
+  },
+  {
+   "ldp": "2CM4",
+   "variantKey": "B0D=B0DGF&B0F=B0F4V",
+   "fctId": "FCT0010"
+  }
+ ]
+}

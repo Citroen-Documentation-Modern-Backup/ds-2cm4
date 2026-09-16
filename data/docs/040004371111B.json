@@ -1,0 +1,23 @@
+{
+ "ref": "040004371111B",
+ "refDisplay": "0400 04 371111B",
+ "title": "TRANSMISSION TRANSVERSALE",
+ "nature": "",
+ "applicability": "ANTI-BLOCAGE ROUE DEPUIS OPR 08030",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "2CM4",
+   "variantKey": "B0D=B0DZU&B0F=B0F4V",
+   "fctId": "FCT0022"
+  },
+  {
+   "ldp": "2CM4",
+   "variantKey": "B0D=B0DGF&B0F=B0F4V",
+   "fctId": "FCT0022"
+  }
+ ]
+}

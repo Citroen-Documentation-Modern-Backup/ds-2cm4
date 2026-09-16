@@ -1,0 +1,28 @@
+{
+ "ref": "040001241005D",
+ "refDisplay": "0400 01 241005D",
+ "title": "MOTOVENTILATEUR BUSE CONDUIT D’AIR",
+ "nature": "",
+ "applicability": "DEPOLLUTION TECHNIQUE VEHICULE W4 ET SANS REFRIGERATION OU DEPOLLUTION TECHNIQUE VEHICULE L4 ET SANS REFRIGERATION",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "2CM4",
+   "variantKey": "B0D=B0DZT&B0F=B0F6P",
+   "fctId": "FCT0009"
+  },
+  {
+   "ldp": "2CM4",
+   "variantKey": "B0D=B0DZU&B0F=B0F6P",
+   "fctId": "FCT0009"
+  },
+  {
+   "ldp": "2CM4",
+   "variantKey": "B0D=B0DGF&B0F=B0F6P",
+   "fctId": "FCT0009"
+  }
+ ]
+}

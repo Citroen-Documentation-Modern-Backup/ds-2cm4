@@ -1,0 +1,23 @@
+{
+ "ref": "040007850010",
+ "refDisplay": "0400 07 850010",
+ "title": "TRAPPE BOUCHON RESERVOIR",
+ "nature": "",
+ "applicability": "",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "2CM4",
+   "variantKey": "B0D=B0DZW&B0F=B0FE4",
+   "fctId": "FCT0010"
+  },
+  {
+   "ldp": "2CM4",
+   "variantKey": "B0D=B0DGF&B0F=B0FE4",
+   "fctId": "FCT0010"
+  }
+ ]
+}

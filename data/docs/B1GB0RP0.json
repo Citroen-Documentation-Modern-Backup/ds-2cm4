@@ -1,0 +1,25 @@
+{
+ "ref": "B1GB0RP0",
+ "refDisplay": "B1GB0RP0",
+ "title": "Caractéristiques : circuit de refroidissement",
+ "nature": "Caractéristiques - identifications",
+ "applicability": " DEPUIS OPR 7301",
+ "typDoc": "2",
+ "css": [
+  "css/Document/gammes.css",
+  "css/Document/texte.css",
+  "css/Document/common.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "2CM4",
+   "variantKey": "B0D=B0DZU&B0F=B0F4V",
+   "fctId": "FCT0009"
+  },
+  {
+   "ldp": "2CM4",
+   "variantKey": "B0D=B0DGF&B0F=B0F4V",
+   "fctId": "FCT0009"
+  }
+ ]
+}

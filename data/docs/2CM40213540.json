@@ -1,0 +1,19 @@
+{
+ "ref": "2CM40213540",
+ "refDisplay": "2CM4 0 21 3540",
+ "title": "RADIATEUR",
+ "nature": "",
+ "applicability": "(103T) BERLINGO FOURGON COURT ’500’ MOTEUR ELECTRIQUE SA18 2 PORTES AR BATTANTES VITREES 1 VITRE DE CHAQUE COTE OU (103R) BERLINGO FOURGON COURT ’500’ MOTEUR ELECTRIQUE SA18 2 PORTES AR BATTANTES VITREES SANS VITRE LATERALE",
+ "typDoc": "6",
+ "css": [
+  "css/Document/baremes.css",
+  "css/Document/common.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "2CM4",
+   "variantKey": "B0D=B0DZW&B0F=B0FE4",
+   "fctId": "FCT0009"
+  }
+ ]
+}

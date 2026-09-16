@@ -1,0 +1,25 @@
+{
+ "ref": "B1HB3PP0",
+ "refDisplay": "B1HB3PP0",
+ "title": "Caractéristiques du circuit d’alimentation GPL : véhicule bicarburation essence/GPL (fourgon 1.1i)",
+ "nature": "Caractéristiques - identifications",
+ "applicability": "BICARBURATION GPL ET (F) FRANCE",
+ "typDoc": "2",
+ "css": [
+  "css/Document/gammes.css",
+  "css/Document/texte.css",
+  "css/Document/common.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "2CM4",
+   "variantKey": "B0D=B0DZT&B0F=B0F6R",
+   "fctId": "FCT0010"
+  },
+  {
+   "ldp": "2CM4",
+   "variantKey": "B0D=B0DZU&B0F=B0F6R",
+   "fctId": "FCT0010"
+  }
+ ]
+}

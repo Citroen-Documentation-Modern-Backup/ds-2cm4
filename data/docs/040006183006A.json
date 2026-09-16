@@ -1,0 +1,33 @@
+{
+ "ref": "040006183006A",
+ "refDisplay": "0400 06 183006A",
+ "title": "COLLECTEUR CATALYSEUR ECHAPP AV",
+ "nature": "",
+ "applicability": "DEPOL CEE 2000 (MOTEUR) ET DEPOLLUTION TECHNIQUE VEHICULE L4 OU DEPOL CEE 2000 (MOTEUR) ET DEPOLLUTION TECHNIQUE VEHICULE W4",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "2CM4",
+   "variantKey": "B0D=B0DZU&B0F=B0F6Q",
+   "fctId": "FCT0011"
+  },
+  {
+   "ldp": "2CM4",
+   "variantKey": "B0D=B0DZV&B0F=B0F6Q",
+   "fctId": "FCT0011"
+  },
+  {
+   "ldp": "2CM4",
+   "variantKey": "B0D=B0DGF&B0F=B0F6Q",
+   "fctId": "FCT0011"
+  },
+  {
+   "ldp": "2CM4",
+   "variantKey": "B0D=B0DRT&B0F=B0F6Q",
+   "fctId": "FCT0011"
+  }
+ ]
+}

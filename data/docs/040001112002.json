@@ -1,0 +1,28 @@
+{
+ "ref": "040001112002",
+ "refDisplay": "0400 01 112002",
+ "title": "CULASSE - COUVRE CULASSE",
+ "nature": "",
+ "applicability": " JUSQU’A OPR 07609",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "2CM4",
+   "variantKey": "B0D=B0DZT&B0F=B0F6R",
+   "fctId": "FCT0006"
+  },
+  {
+   "ldp": "2CM4",
+   "variantKey": "B0D=B0DZU&B0F=B0F6R",
+   "fctId": "FCT0006"
+  },
+  {
+   "ldp": "2CM4",
+   "variantKey": "B0D=B0DGF&B0F=B0F6R",
+   "fctId": "FCT0006"
+  }
+ ]
+}

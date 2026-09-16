@@ -1,0 +1,23 @@
+{
+ "ref": "040002534010A",
+ "refDisplay": "0400 02 534010A",
+ "title": "TRAVERSE SUPPORT BOITIER",
+ "nature": "",
+ "applicability": " JUSQU’A OPR 08238",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "2CM4",
+   "variantKey": "B0D=B0DZW&B0F=B0FE4",
+   "fctId": "FCT0010"
+  },
+  {
+   "ldp": "2CM4",
+   "variantKey": "B0D=B0DGF&B0F=B0FE4",
+   "fctId": "FCT0010"
+  }
+ ]
+}

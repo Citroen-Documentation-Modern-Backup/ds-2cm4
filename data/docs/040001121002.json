@@ -1,0 +1,28 @@
+{
+ "ref": "040001121002",
+ "refDisplay": "0400 01 121002",
+ "title": "VILEBREQUIN",
+ "nature": "",
+ "applicability": " JUSQU’A OPR 08161",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "2CM4",
+   "variantKey": "B0D=B0DZT&B0F=B0F6R",
+   "fctId": "FCT0005"
+  },
+  {
+   "ldp": "2CM4",
+   "variantKey": "B0D=B0DZU&B0F=B0F6R",
+   "fctId": "FCT0005"
+  },
+  {
+   "ldp": "2CM4",
+   "variantKey": "B0D=B0DGF&B0F=B0F6R",
+   "fctId": "FCT0005"
+  }
+ ]
+}

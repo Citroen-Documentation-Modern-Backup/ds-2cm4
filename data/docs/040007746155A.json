@@ -1,0 +1,18 @@
+{
+ "ref": "040007746155A",
+ "refDisplay": "0400 07 746155A",
+ "title": "CLOISON DE CABINE",
+ "nature": "",
+ "applicability": "ECHELLE PROTECTION POSTE AV ET AVEC CLOISON THERMIQUE SOUPLE ET SANS PORTE LATERALE COULISSANTE",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "2CM4",
+   "variantKey": "B0D=B0DZW&B0F=B0FE4",
+   "fctId": "FCT0148"
+  }
+ ]
+}
